@@ -6,6 +6,8 @@
 
 ## Clients
 
+Ref. <https://indieweb.org/Micropub/Clients>
+
 ## Libraries
 
 ## Plugins
